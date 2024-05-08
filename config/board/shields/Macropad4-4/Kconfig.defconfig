@@ -1,0 +1,6 @@
+if Shield_Macropad4x4
+
+config ZMK_KEYBOARD_NAME
+    default "Macropad4x4"
+
+endif

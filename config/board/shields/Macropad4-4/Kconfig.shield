@@ -1,0 +1,2 @@
+config Shield_Macropad4x4
+    def_bool $(shields_list_contains, Macropad4x4)
